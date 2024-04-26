@@ -69,7 +69,6 @@ nbdist/
 application-local.yml
 application-local.yaml
 application-local.properties
-
 /packages/*/node_modules/
 node_modules
 /workplace/
